@@ -1,0 +1,45 @@
+******* Html Elemets: Elements are used to structure html 
+
+**Listed Elements below
+1.head
+2. body: All elements are nested in the body
+3. div : Div serves as container
+4. p : Used for writing text
+5. a : Enables navigation from one page to another in a  web site. Also enables navigation from one website to another website
+6. h : used for headings
+7. nav: used for usefull links at the top of a webpage
+8. footer: used for usefull links at the bottom of a webpage
+
+
+***** Measurment value
+1.(px)
+2.(em)
+3.(rem)
+4.(%)
+5.(vh or vw)
+
+***** Attributes: Describes an elements
+Listed Attributes
+
+1. style: give color, width, height and other types of styling to an element
+2 title: Give description or information of an element
+2. class: Used for naming elements
+3. id : used for uniqe naming
+
+
+Block levele Elements
+
+1. div
+2. p
+3. br
+
+
+
+
+Css Display
+1. Block: Elements stacked on top of each other. Examples of elements ====== div, p, h, 
+2. Inline: Horizontal placemente examples of elements ====== a, span
+3.flex
+ ==> Direction(row or colum)
+ ==> Justification: Horizontally speakingz_____ Examples(start,center, space-between, space-around, space-evenly)
+ ==> Align: Vertically speakingz_____ Examples(center, space-between, space-around, space-evenly)
